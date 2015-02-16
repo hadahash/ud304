@@ -1,7 +1,7 @@
 Udacity UD304 - Intro to HTML and CSS - https://www.udacity.com/course/viewer#!/c-ud304
 
 Udacity Frontend Nanodegree Style Guide
-[http://udacity.github.io/frontend-nanodegree-styleguide/]
+http://udacity.github.io/frontend-nanodegree-styleguide/
 
 CSS references
 http://css-tricks.com/how-css-selectors-work/
