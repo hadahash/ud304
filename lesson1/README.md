@@ -4,9 +4,11 @@ Udacity UD304
 (https://www.udacity.com/course/viewer#!/c-ud304)
 
 ###Lesson 01 - From Design to Code
+Diligently employ a code/test/refine strategy as you precisely and deliberately translate initial design documents into static web pages.   
+You'll also investigate the Document Object Model (DOM) and its implications for web development.
 
-To create a sample page from a mockup file using the code, test and refine strategy
-
+###Notes
+To create a sample page from a mockup file using the code, test and refine strategy.  
 Pretty nifty, given that I've learned how to use outlines and how to make the page
 Using HTML and CSS
 
@@ -29,7 +31,6 @@ Using HTML and CSS
 
 ####Verifying HTML and CSS
 To verify HTML: 
-[http://validator.w3.org/#validate_by_input](http://validator.w3.org/#validate_by_input)
-
+[http://validator.w3.org/#validate_by_input](http://validator.w3.org/#validate_by_input)  
 To verify CSS: 
 [http://jigsaw.w3.org/css-validator/#validate_by_input](http://jigsaw.w3.org/css-validator/#validate_by_input)
