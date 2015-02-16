@@ -1,5 +1,9 @@
 Udacity UD304 - Intro to HTML and CSS - https://www.udacity.com/course/viewer#!/c-ud304
 
+To create a sample page from a mockup file using the code, test and refine strategy
+Pretty nifty, given that I've learned how to use outlines and how to make the page
+Using HTML and CSS
+
 Udacity Frontend Nanodegree Style Guide
 http://udacity.github.io/frontend-nanodegree-styleguide/
 
