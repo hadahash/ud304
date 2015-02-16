@@ -3,6 +3,7 @@ Udacity UD304
 [Intro to HTML and CSS]
 (https://www.udacity.com/course/viewer#!/c-ud304)
 
+###Lesson 01 - From Design to Code
 
 To create a sample page from a mockup file using the code, test and refine strategy
 
