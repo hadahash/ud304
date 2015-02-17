@@ -21,6 +21,10 @@ Frameless: [http://framelessgrid.com/](http://framelessgrid.com/)
 
 ####CSS Documentation
 [http://getbootstrap.com/css/](http://getbootstrap.com/css/)
+[http://getbootstrap.com/css/#overview-container](http://getbootstrap.com/css/#overview-container)
+[http://getbootstrap.com/css/#grid](http://getbootstrap.com/css/#grid)
+[http://getbootstrap.com/css/#grid-example-basic](http://getbootstrap.com/css/#grid-example-basic)
+[http://getbootstrap.com/css/#type](http://getbootstrap.com/css/#type)
 
 ####Devtools Shortcuts
 [https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools](https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools)
