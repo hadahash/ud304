@@ -19,12 +19,13 @@ Yaml: [http://www.yaml.de/](http://www.yaml.de/)
 Suzy: [http://susy.oddbird.net/](http://susy.oddbird.net/)  
 Frameless: [http://framelessgrid.com/](http://framelessgrid.com/)  
 
-####CSS Documentation
+####Bootstrap Documentation
 [http://getbootstrap.com/css/](http://getbootstrap.com/css/)  
 [http://getbootstrap.com/css/#overview-container](http://getbootstrap.com/css/#overview-container)  
 [http://getbootstrap.com/css/#grid](http://getbootstrap.com/css/#grid)  
 [http://getbootstrap.com/css/#grid-example-basic](http://getbootstrap.com/css/#grid-example-basic)  
 [http://getbootstrap.com/css/#type](http://getbootstrap.com/css/#type)  
+[http://getbootstrap.com/javascript/#modals](http://getbootstrap.com/javascript/#modals)
 
 ####Devtools Shortcuts
 [https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools](https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools)
