@@ -7,7 +7,9 @@ Udacity UD304
 Strategically investigate an existing professional CSS framework as you use it to build a website using responsive design principles while maintaining code readability.
 
 ###Notes
-`container` --> `row` --> `column`
+`container` --> `row` --> `column`  
+
+Finished the entire course learning how to develop a simple portfolio!
 
 ###References
 
