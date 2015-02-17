@@ -22,5 +22,5 @@ Frameless: [http://framelessgrid.com/](http://framelessgrid.com/)
 ####CSS Documentation
 [http://getbootstrap.com/css/](http://getbootstrap.com/css/)
 
-####Devtools
+####Devtools Shortcuts
 [https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools](https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools)
