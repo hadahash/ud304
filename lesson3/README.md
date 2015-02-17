@@ -5,3 +5,19 @@ Udacity UD304
 
 ###Lesson 03 - Learning and Using Bootstrap
 Strategically investigate an existing professional CSS framework as you use it to build a website using responsive design principles while maintaining code readability.
+
+###Notes
+`container` --> `row` --> `column`
+
+###References
+
+####CSS Frameworks
+Bootstrap: [http://getbootstrap.com/](http://getbootstrap.com/)  
+Foundation: [http://foundation.zurb.com/](http://foundation.zurb.com/)   
+Yaml: [http://www.yaml.de/](http://www.yaml.de/)   
+960 Grid: [http://960.gs/](http://960.gs/)   
+Suzy: [http://susy.oddbird.net/](http://susy.oddbird.net/)  
+Frameless: [http://framelessgrid.com/](http://framelessgrid.com/)  
+
+####CSS Documentation
+[http://getbootstrap.com/css/](http://getbootstrap.com/css/)
