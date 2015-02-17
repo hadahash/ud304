@@ -30,7 +30,7 @@ Frameless: [http://framelessgrid.com/](http://framelessgrid.com/)
 [https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools](https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools)
 
 ####Placeholder images
-[placehold.it](http://placehold.it/)
-[PlaceKitten](http://placekitten.com/)
-[PlacePuppy](http://placepuppy.it/)
+[placehold.it](http://placehold.it/)  
+[PlaceKitten](http://placekitten.com/)  
+[PlacePuppy](http://placepuppy.it/)  
 [Flickholdr](http://flickholdr.iwerk.org/)
